@@ -2,7 +2,7 @@
 
 I'm Luiz Kowalski
 
-- 🔭 Software Engineer @ [Shopify](https://shopify.com)
+- 🔭 Senior Software Engineer @ ViaEurope
 - ⚙️ Mastering performance on Ruby on Rails applications
 - 🛠️ Ruby/Rails, Heroku, AWS, Docker
 - ✍️ Blogging (when I feel like) at [luizkowalski.net](https://luizkowalski.net)
