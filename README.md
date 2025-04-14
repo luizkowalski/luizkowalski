@@ -2,7 +2,7 @@
 
 I'm Luiz Kowalski
 
-- 🔭 Senior Software Engineer @ ViaEurope
+- 🔭 Senior Software Engineer @ Contentful
 - ⚙️ Mastering performance on Ruby on Rails applications
 - 🛠️ Fullstack Ruby on Rails, Docker, PostgreSQL
 - ✍️ Blogging (when I feel like it) at [luizkowalski.net](https://luizkowalski.net)
