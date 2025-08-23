@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I'm Luiz Kowalski
+I'm Luiz Eduardo
 
 - 🔭 Senior Software Engineer @ Contentful
-- ⚙️ Mastering performance on Ruby on Rails applications
-- 🛠️ Fullstack Ruby on Rails, Docker, PostgreSQL
+- ⚙️ Mastering performance for Ruby on Rails applications
+- 🛠️ Fullstack Ruby on Rails, Docker, Terraform, PostgreSQL
 - ✍️ Blogging (when I feel like it) at [luizkowalski.net](https://luizkowalski.net)
 - ⚡  Fun fact about me: I used to believe in microservices. Not anymore
-
-[check out my CV](https://read.cv/luizkowalski)
